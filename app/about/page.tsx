@@ -6,8 +6,8 @@ import Link from 'next/link'
 import { Award, Users, Clock, MapPin, Shield, Building, CheckCircle, Target, Eye, Phone, Star, Zap, Droplets, Thermometer } from 'lucide-react'
 
 export const metadata: Metadata = {
-    title: 'من نحن | شركة اوائل العزل',
-    description: 'شركة أوائل العزل - رواد عزل الفوم والأسطح في الرياض لأكثر من 15 عاماً.',
+    title: 'من نحن | شركة العالمية للعوازل',
+    description: 'شركة العالمية للعوازل - رواد عزل الفوم والأسطح في الرياض لأكثر من 15 عاماً.',
     keywords: ['شركة عزل فوم بالرياض', 'عزل اسطح بالرياض', 'عزل مائي وحراري', 'من نحن', 'شركة عزل بالرياض'],
 }
 

@@ -34,7 +34,7 @@ interface StructuredDataProps {
 
 export default function StructuredData({ type = 'website', pageData, reviews, aggregateRating }: StructuredDataProps) {
   const baseUrl = 'https://elazzl.sa'
-  const companyName = 'شركة اوائل العزل - الرياض'
+  const companyName = 'شركة العالمية للعوازل - الرياض'
   const companyPhone = '0551777962'
   const companyLogo = `${baseUrl}/logo.png`
   const companyDescription = 'شركة عزل فوم بالرياض وخبرة 15 سنة في العزل المائي والحراري. نقدم خدماتنا بضمان 15 سنة وتوفير 50% من الكهرباء. اتصل: 0551777962'
@@ -79,7 +79,7 @@ export default function StructuredData({ type = 'website', pageData, reviews, ag
     "@type": "RoofingContractor",
     "@id": `${baseUrl}/#organization`,
     "name": companyName,
-    "alternateName": ["اوائل العزل"],
+    "alternateName": ["العالمية للعوازل"],
     "url": baseUrl,
     "logo": companyLogo,
     "description": companyDescription,

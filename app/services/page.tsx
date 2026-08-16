@@ -21,7 +21,7 @@ import Footer from '@/components/Footer'
 import StructuredData from '@/components/StructuredData'
 
 export const metadata: Metadata = {
-  title: 'خدمات العزل بالرياض | 0551777962 | شركة اوائل العزل',
+  title: 'خدمات العزل بالرياض | 0551777962 | شركة العالمية للعوازل',
   description: 'خدمات عزل احترافية بالرياض: عزل فوم، عزل حراري، عزل مائي، عزل خزانات، كشف تسربات. ضمان 10 سنوات وأسعار تنافسية. اتصل الآن: 0551777962',
 }
 
@@ -143,7 +143,7 @@ export default function ServicesPage() {
       <StructuredData
         type="website"
         pageData={{
-          title: 'خدمات العزل بالرياض | 0551777962 | شركة اوائل العزل',
+          title: 'خدمات العزل بالرياض | 0551777962 | شركة العالمية للعوازل',
           description: 'خدمات عزل احترافية بالرياض: عزل فوم، عزل حراري، عزل مائي، عزل خزانات، كشف تسربات. ضمان 10 سنوات وأسعار تنافسية. اتصل الآن: 0551777962',
           url: 'https://elazzl.sa/services'
         }}
